@@ -1,9 +1,4 @@
 # OK Real Estate
-Team Members:
-*Faisal Jaffri  
-*Shujia Huang
-*Chinmayi Rane
-
 *Professor In-Charge* - Dr. Bryan Hammer
 
 ## Executive Summary
